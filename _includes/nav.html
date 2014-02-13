@@ -1,6 +1,6 @@
 <nav class="nav-primary" role="navigation" >
     <ul>
-        {% for p in posts.pages %}
+        {% for p in site.pages %}
         <li class="nav">
         	<a class="nav"{% if p.url == page.url %}class="active"{% endif %} href="{{ site.baseurl/posts }}{{ p.url }}">{{ p.title }}</a>
         </li>

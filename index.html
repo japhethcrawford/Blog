@@ -3,3 +3,6 @@ layout: default
 title: Japheth Crawford    Advanced Web Design Blog
 ---
 
+{% for post in site.posts %}
+	<a href="{{post.url}}">{{post.title}}</a>
+{% endfor %}
