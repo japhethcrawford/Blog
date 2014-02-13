@@ -14,7 +14,8 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px 'Oswald', sans-serif;
+  font: 13.34px 'effra', sans-serif;
+  font-weight: 400;
   font-size: small;
   text-align: left;
 }
