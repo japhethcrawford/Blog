@@ -50,6 +50,14 @@ a:visited { color: #a0a; }
   font-size: 80%;
 }
 
+li.nav {
+	font-size: 160%;
+	line-height: 120%;
+	background-color: #f18600;
+	color: white;
+	font-weight: 800;
+}
+
 /*****************************************************************************/
 /*
 /* Site
