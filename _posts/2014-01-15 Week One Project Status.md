@@ -1,39 +1,73 @@
-<!DOCTYPE HTML>
-<html>
-  <head>
-    <title>Week One - Project Status</title>
-  </head>
-  
-  <body>
-  	<a href="index.html"><h1>Japheth Crawford - Advanced Web Design</h1></a>
-    <h2>Re-Imaging Stacks</h2><h3>Enoch Pratt Free Library Process Week One</h3>
-    <br /><br />
-    <a href="files/proj_one/researchPhase.pdf">Download Research Phase PDF</a>
-    <h4 style="text-transform: uppercase;">Interviews</h4>
-	<h3>Marisa, Female, 26</h3>
-	<p>College educated graphic designer</p>
-	<p><strong>How often do you go to the library?</strong> <em>Not since college</em></p>
-	<p><strong>What do you go to the library for?</strong> <em>Research, studying....should start going more often though, once I get through the books I own that I haven't read yet, I'll look to the library haha</em>
-	<p><strong>Do you ever use the library website? What for?</strong> <em>Nope....used to in college for web based research databases and such</em></p>
-	<p><strong>Is there anything that frustrates you with the library or the library website?</strong> <em>It had terrible functionality</em></p>
-	<p><strong>Do you use an iPad, Kindle, Nook, etc.? If so, how often?</strong> <em>Kindle... Once a week at least, if there's a book I'm into. Sometimes I'll go a few months between those phases though</em></p>
-	<p><strong>Where do you read the most? Desktop? E-Reader?</strong> <em>Probably tied between kindle and book</em></p>
-	<p><strong>If the entire library’s catalog was available in a digital format, would you ever still go to the physical building?</strong> <em>Possibly. Sometimes it's good to get into that environment. And i still believe that you can't beat the printed word</em></p>
-	<p><strong>When reading on a desktop, is there anything that could be done to better your experience?</strong> <em>Display features more like the kindle etc that'd make the screen easier on the eyes. Interactive highlighting features, taking notes in the margins.....all things about printed materials that aren't available in digital that discourage me from being more invested and engaged in my digital reading endeavors</em></p>
-	<br /><hr /><br />
-		<h3>Jon, Male, 23</h3>
-	<p>College student, Illustrator at MICA </p>
-	<p><strong>How often do you go to the library?</strong> <em>Never</em></p>
-	<p><strong>What do you go to the library for?</strong> <em>If I do, it's for school</em>
-	<p><strong>Do you ever use the library website? What for?</strong> <em>No</em></p>
-	<p><strong>Is there anything that frustrates you with the library or the library website?</strong> <em>N/A</em></p>
-	<p><strong>Do you use an iPad, Kindle, Nook, etc.? If so, how often?</strong> <em>No</em></p>
-	<p><strong>Where do you read the most? Desktop? E-Reader?</strong> <em>Phone, books, and laptop</em></p>
-	<p><strong>If the entire library’s catalog was available in a digital format, would you ever still go to the physical building?</strong> <em>Nope</em></p>
-	<p><strong>When reading on a desktop, is there anything that could be done to better your experience?</strong> <em>Changing the size of the text, highlighting, and the ability to look up any of the words</em></p>
-	<br /><hr /><br />
-		<h3>Danielle, Female, 33</h3>
-	<p>High School English Teacher </p>
+---
+layout: post
+title:  "Re-Imaging Stacks - Week One"
+date:   2014-01-15
+categories: Project Status, Re-Imaging Stacks
+---
+   
+   
+    [Download Research Phase PDF](files/proj_one/researchPhase.pdf;)
+    ##INTERVIEWS
+    
+ 	###Marisa, Female, 26
+	College educated graphic designer
+	**How often do you go to the library?**
+	Not since college
+	
+	**What do you go to the library for?**
+	Research, studying....should start going more often though, once I get through the books I own that I haven't read yet, I'll look to the library haha
+	
+	**Do you ever use the library website? What for?**
+	Nope....used to in college for web based research databases and such
+	
+	**Is there anything that frustrates you with the library or the library website?** 
+	It had terrible functionality
+	
+	**Do you use an iPad, Kindle, Nook, etc.? If so, how often?**
+	Kindle... Once a week at least, if there's a book I'm into. Sometimes I'll go a few months between those phases though
+	
+	**Where do you read the most? Desktop? E-Reader?**
+	Probably tied between kindle and book
+	
+	**If the entire library’s catalog was available in a digital format, would you ever still go to the physical building?**
+	Possibly. Sometimes it's good to get into that environment. And i still believe that you can't beat the printed word
+	
+	**When reading on a desktop, is there anything that could be done to better your experience?**
+	Display features more like the kindle etc that'd make the screen easier on the eyes. Interactive highlighting features, taking notes in the margins.....all things about printed materials that aren't available in digital that discourage me from being more invested and engaged in my digital reading endeavors
+	
+	
+	
+	###Jon, Male, 23
+	College student, Illustrator at MICA
+	
+	**How often do you go to the library?**
+	Never
+
+	**What do you go to the library for?**
+	If I do, it's for school
+	
+	**Do you ever use the library website? What for?**
+	No
+	
+	**Is there anything that frustrates you with the library or the library website?**
+	N/A
+	
+	**Do you use an iPad, Kindle, Nook, etc.? If so, how often?**
+	No
+	
+	**Where do you read the most? Desktop? E-Reader?**
+	Phone, books, and laptop
+	
+	**If the entire library’s catalog was available in a digital format, would you ever still go to the physical building?**
+	Nope
+	
+	**When reading on a desktop, is there anything that could be done to better your experience?**
+	Changing the size of the text, highlighting, and the ability to look up any of the words
+	
+	
+	
+	###Danielle, Female, 33
+	High School English Teacher
 	<p><strong>How often do you go to the library?</strong> <em>I go to the library often; at least once a month, maybe more frequently if I’m looking for a book in particular or if I need a new audio book (no judging!) or if I need to return books.</em></p>
 	<p><strong>What do you go to the library for?</strong> <em>Already answered a lot of this question, but I go to browse, to look for specific books, to get materials for school, to get audio books, and to do research.  I research both for teaching and for my Master’s (I have my Master’s in Liberal Arts, but I’m halfway through my Master’s in School Library Media.) </em>
 	<p><strong>Do you ever use the library website? What for?</strong> <em>I am using the library webpage constantly.  I use it to check for fines (I am terrible at returning books on time), renewing books, and checking the library catalogue.  I would say I’m on it at least once a week, if not more, depending on how much time I have to read.  I also use it to check and download ebooks and audiobooks online.</em></p>
