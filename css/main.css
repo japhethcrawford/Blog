@@ -50,12 +50,13 @@ a:visited { color: #a0a; }
   font-size: 80%;
 }
 
-li.nav {
-	font-size: 160%;
-	line-height: 120%;
+li.nav, a.nav {
+	font-size: 300%;
+	line-height: 200%;
 	background-color: #f18600;
 	color: white;
 	font-weight: 800;
+	text-decoration: none;
 }
 
 /*****************************************************************************/
