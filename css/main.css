@@ -57,6 +57,16 @@ li.nav, a.nav {
 	color: white;
 	font-weight: 800;
 	text-decoration: none;
+	margin-top: 5px;
+}
+
+li.nav:hover, a.nav:hover {
+	background-color: white;
+	color: #F18600;
+	-webkit-transition: all .5s ease-in-out;
+	   -moz-transition: all .5s ease-in-out;
+	     -o-transition: all .5s ease-in-out;
+	        transition: all .5s ease-in-out;
 }
 
 /*****************************************************************************/
