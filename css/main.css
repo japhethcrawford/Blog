@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px 'Oswald', Arial, sans-serif;
+  font: 13.34px 'Oswald', sans-serif;
   font-size: small;
   text-align: center;
 }
@@ -64,6 +64,7 @@ a:visited { color: #a0a; }
 }
 
 .header a {
+	font-family: 'oswald', sans-serif;
   font-weight: bold;
   text-decoration: none;
 }
