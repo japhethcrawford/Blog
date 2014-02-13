@@ -1,0 +1,4 @@
+name: Advanced Web Design Blog
+markdown: redcarpet
+pygments: true
+baseurl: /Blog
